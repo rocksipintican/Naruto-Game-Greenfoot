@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Naruto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Naruto\ here.\r\n\ @author\ (your\ name)\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Naruto()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Naruto\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ MutaJucator()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ Mananca()
+comment4.text=\r\n\ \r\n
+comment5.params=directie
+comment5.target=int\ getSchimbaX(int)
+comment6.params=directie
+comment6.target=int\ getSchimbaY(int)
+comment6.text=\r\n\ \r\n
+comment7.params=offset
+comment7.target=int\ adjustOffset(int)
+comment7.text=\r\n\ \r\n
+comment8.params=
+comment8.target=void\ AtingeInamic()
+numComments=9
